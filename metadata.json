@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Export Import Hub",
+  "description": "The ultimate educational and reference hub for global trade, Incoterms 2020, customs clearance, shipping container classifications, product research, and international logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

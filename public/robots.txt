@@ -1,0 +1,7 @@
+# robots.txt for Export Import Hub - Global Trade Reference Library
+# All search engine crawlers are welcome to index the reference content
+
+User-agent: *
+Allow: /
+
+Sitemap: https://exportimporthub.netlify.app/sitemap.xml

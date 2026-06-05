@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Round background -->
+  <rect width="32" height="32" rx="8" fill="#1e293b"/>
+  
+  <!-- Stylized cargo ship & waves -->
+  <path d="M6 21h20l-2 5H8z" fill="#3b82f6"/>
+  <path d="M4 21h24v1H4zm3 2h18v1H7z" fill="#1d4ed8" opacity="0.5"/>
+  
+  <!-- Container boxes -->
+  <rect x="9" y="16" width="4" height="4" rx="1" fill="#f59e0b"/>
+  <rect x="14" y="14" width="4" height="6" rx="1" fill="#ef4444"/>
+  <rect x="19" y="17" width="4" height="3" rx="1" fill="#10b981"/>
+  
+  <!-- Stylized trade routes or globe lines -->
+  <path d="M16 4c6.627 0 12 5.373 12 12 0 1.25-.19 2.455-.544 3.59M16 4C9.373 4 4 9.373 4 16c0 1.25.19 2.455.544 3.59" fill="none" stroke="#e2e8f0" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  <path d="M16 4v24M4 16h24" fill="none" stroke="#e2e8f0" stroke-width="1" opacity="0.15"/>
+</svg>

@@ -43,7 +43,7 @@ function AppContent() {
   const { t, language, setLanguage } = useLanguage();
   const [activeNavCode, setActiveNavCode] = useState<string>('dashboard');
   const [mobileMenuOpen, setMobileMenuOpen] = useState<boolean>(false);
-  const [globalSearchQuery, setGlobalSearchQuery] = useState<string>(prev => prev || '');
+  const [globalSearchQuery, setGlobalSearchQuery] = useState<string>('');
   const [showSearchResults, setShowSearchResults] = useState<boolean>(false);
 
   // Grouped Sidebar configuration mapping holding reactive bilingual translations

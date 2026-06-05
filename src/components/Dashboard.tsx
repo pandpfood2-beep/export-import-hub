@@ -1,6 +1,5 @@
 import React from 'react';
 import { ArrowRight, Globe, Ship, Landmark, Shield, FileCheck, HelpCircle, CheckCircle, Search, ClipboardList } from 'lucide-react';
-import { motion } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 
 interface DashboardProps {
